@@ -33,7 +33,7 @@ The REST API to the example app is described below.
         "id": 2,
         "bookName": 1984
     }
-]
+    ]
 
 ## Add a new book
 
@@ -63,4 +63,4 @@ The REST API to the example app is described below.
         "id": 2,
         "bookName": 1984
     }
-]
+    ]
