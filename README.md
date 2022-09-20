@@ -44,13 +44,11 @@ The REST API to the example app is described below.
    http://localhost:3000/books/api/addNewBook
 
 ### Body
-
- 
-{
-   "id": 2,
-    "bookName": 1984
-}
-
+    
+    {
+        "id": 1,
+        "bookName": "Harry Potter"
+    }
 
 ### Response
 
